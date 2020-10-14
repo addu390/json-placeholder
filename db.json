@@ -1,7 +1,7 @@
 {
   "users": [
-    { "user_id": 1, "name": "Pikachu", "email": "ash.pikachu@pokemon.com", "uuid": "3C7DFK" },
-    { "user_id": 2, "name": "Bulbasaur", "email": "ash.bulbasaur@pokemon.com", "uuid": "J4952I" },
-    { "user_id": 3, "name": "Charmander", "email": "ash.charmander@pokemon.com", "uuid": "ISF40V" }
+    { "id": 1, "name": "Pikachu", "email": "ash.pikachu@pokemon.com", "uuid": "3C7DFK" },
+    { "id": 2, "name": "Bulbasaur", "email": "ash.bulbasaur@pokemon.com", "uuid": "J4952I" },
+    { "id": 3, "name": "Charmander", "email": "ash.charmander@pokemon.com", "uuid": "ISF40V" }
   ]
 }
